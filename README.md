@@ -9,11 +9,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the
 
 ## BERTaurant Demo
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1FZVIRUNCX80aOwmFZSKUT3uYDe6Ap0Hf/preview">
-    <img src="https://drive.google.com/uc?export=download&id=18GaH5kfEXGiK0HbnUE_m7Tz3Fw5GYPql" alt="BERTaurant Demo">
-  </a>
-</p>
+[![BERTaurant Demo](https://drive.google.com/uc?export=download&id=18GaH5kfEXGiK0HbnUE_m7Tz3Fw5GYPql)](https://drive.google.com/file/d/1SQvG3otTPLmqEKzXXDtzlcv4wUzJCN85/preview)
 
 Click on the image above to watch the video demonstration of BERTaurant in action.
 
