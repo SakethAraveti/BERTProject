@@ -1,7 +1,7 @@
 
 # BERTaurant
 
-BERTaurant is a web application that allows users to view and add reviews for restaurants. It also includes admin functionalities for managing reviews and restaurant details. The unique aspect of this project is the use of a pre-trained BERT model to classify and score restaurant reviews.
+BERTaurant is a web application that allows users to view and add reviews for restaurants. It also includes administrative functionalities for managing reviews and restaurant details. The unique aspect of this project is the use of a pre-trained BERT model to classify and score restaurant reviews.
 
 ## About BERT
 
@@ -25,20 +25,20 @@ BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the
 ## Installation
 
 1. **Clone the repository**:
-   \`\`\`bash
+   ```
    git clone https://github.com/SakethAraveti/BERTProject.git
    cd BERTProject
-   \`\`\`
+   ```
 
 2. **Install dependencies**:
-   \`\`\`bash
+   ```
    npm install
-   \`\`\`
+   ```
 
 3. **Run the application**:
-   \`\`\`bash
+   ```
    npm run dev
-   \`\`\`
+   ```
 
 ## Project Structure
 
@@ -84,7 +84,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the
 
 Once the application is running, users can:
 - Browse restaurants and view existing reviews.
-- Submit new reviews, which will be automatically analyzed and rated by the BERT model.
+- Submit new reviews, which will be automatically analyzed and rated using the BERT model.
 - Admins can log in to access additional functionalities like modifying reviews and restaurant details.
 
 ## License
