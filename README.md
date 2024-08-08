@@ -7,6 +7,13 @@ BERTaurant is a web application that allows users to view and add reviews for re
 
 BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art natural language processing model developed by Google. It is designed to understand the context of a word in search queries and other text inputs, making it highly effective for tasks like sentiment analysis, question answering, and language inference. In this project, BERT is utilized to analyze and classify restaurant reviews into positive or negative sentiments and to predict a rating score out of five.
 
+## BERTaurant Demo
+
+[![BERTaurant Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1hUR7yKtZZUPwXGlaoVXaRHXU0-gmp5zv/view?usp=sharing "BERTaurant Demo")
+
+Click on the image above to watch the video demonstration of BERTaurant in action.
+
+
 ## Features
 
 - **User Functionality**: 
